@@ -1,0 +1,22 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: LatexTemplate.aux
+The style file: plain.bst
+Illegal, another \bibstyle command---line 50 of file LatexTemplate.aux
+ : \bibstyle
+ :          {abbrv}
+I'm skipping whatever remains of this command
+Database file #1: references.bib
+Repeated entry---line 174 of file references.bib
+ : @inproceedings{ErlebachL10
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 506 of file references.bib
+ : @article{Frederickson87
+ :                        ,
+I'm skipping whatever remains of this entry
+A bad cross reference---entry "ErlebachL10"
+refers to entry "DBLP:conf/approx/2010", which doesn't exist
+A bad cross reference---entry "LiJ15"
+refers to entry "DBLP:conf/icalp/2015-1", which doesn't exist
+Warning--I didn't find a database entry for "DBLP:conf/approx/2010"
+Warning--I didn't find a database entry for "DBLP:conf/icalp/2015-1"
+(There were 5 error messages)

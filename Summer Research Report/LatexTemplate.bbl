@@ -1,0 +1,46 @@
+\begin{thebibliography}{1}
+
+\bibitem{CarmiDJNPS15}
+Paz Carmi, Gautam~K. Das, Ramesh~K. Jallu, Subhas~C. Nandy, Prajwal~R. Prasad,
+  and Yael Stein.
+\newblock Minimum dominating set problem for unit disks revisited.
+\newblock {\em Int. J. Comput. Geometry Appl.}, 25(3):227, 2015.
+
+\bibitem{DeDCN13}
+Minati De, Gautam~K. Das, Paz Carmi, and Subhas~C. Nandy.
+\newblock Approximation algorithms for a variant of discrete piercing set
+  problem for unit disks.
+\newblock {\em Int. J. Comput. Geometry Appl.}, 23(6):461, 2013.
+
+\bibitem{DeL16}
+Minati De and Abhiruk Lahiri.
+\newblock Geometric dominating set and set cover via local search.
+\newblock {\em CoRR}, abs/1605.02499, 2016.
+
+\bibitem{ErlebachL10}
+Thomas Erlebach and Erik~Jan van Leeuwen.
+\newblock {PTAS} for weighted set cover on unit squares.
+\newblock In {\em Approximation, Randomization, and Combinatorial Optimization.
+  Algorithms and Techniques, 13th International Workshop, {APPROX} 2010, and
+  14th International Workshop, {RANDOM} 2010, Barcelona, Spain, September 1-3,
+  2010. Proceedings}, pages 166--177, 2010.
+
+\bibitem{Frederickson87}
+Greg~N. Frederickson.
+\newblock Fast algorithms for shortest paths in planar graphs, with
+  applications.
+\newblock {\em {SIAM} J. Comput.}, 16(6):1004--1022, 1987.
+
+\bibitem{matt3320}
+Matt Gibson and Imran~A. Pirwani.
+\newblock Approximation algorithms for dominating set in disk graphs.
+\newblock {\em CoRR}, abs/1004.3320, 2010.
+
+\bibitem{LiJ15}
+Jian Li and Yifei Jin.
+\newblock A {PTAS} for the weighted unit disk cover problem.
+\newblock In {\em Automata, Languages, and Programming - 42nd International
+  Colloquium, {ICALP} 2015, Kyoto, Japan, July 6-10, 2015, Proceedings, Part
+  {I}}, pages 898--909, 2015.
+
+\end{thebibliography}
